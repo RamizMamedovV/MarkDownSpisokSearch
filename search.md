@@ -72,8 +72,11 @@ https://classroom.kespa.ru/lessons/A1-2/texts/126
 
 ## PYTHON online
 
-https://www.onlinegdb.com/online_python_compiler
+1. https://www.onlinegdb.com/online_python_compiler
 
+2. среда разработки для Python
+   https://wingware.com/
+   
 ## Урок 2. Установка и настройка Android Studio. Установка JDK. 
 Настройка Android SDK
 

@@ -36,6 +36,14 @@ https://developer.android.com/studio/debug/dev-options
 
 https://www.jetbrains.com/products/compare/?product=pycharm&product=pycharm-ce
 
+3. Flask: Введение в HTML5. Что такое HTML
+
+https://metanit.com/web/html5/1.1.php
+
+4. Flask: Основы CSS
+
+https://developer.mozilla.org/ru/docs/Learn/Getting_started_with_the_web/CSS_basics
+
 ## Amina обучение
 
 https://studio.code.org/s/playlab/lessons/1/levels/9
@@ -108,7 +116,7 @@ https://www.glassdoor.com/Job/turkey-remote-jobs-SRCH_IL.0,6_IN238_KO7,13_IP2.ht
 
 https://pngicon.ru/kartinki
 
-## Vrhicals sale in America
+## Vehicles sale in America
 
 1. https://www.copart.com/vehicleFinderSearch?searchStr=%7B%22MISC%22:%5B%22%23VehicleTypeCode:VEHTYPE_V%22,%22%23DamageTypeCode:DAMAGECODE_NW%22,%22%23OdometerReading:%5B0%20TO%209999999%5D%22,%22%23LotYear:%5B2019%20TO%202024%5D%22,%22%23MakeCode:VOLK%20OR%20%23MakeDesc:Volkswagen%22,%22member_lot_condition:USED%22%5D,%22sortByZip%22:false,%22buyerEnteredZip%22:null,%22milesAway%22:null%7D%20&displayStr=NORMAL%20WEAR,%5B0%20TO%209999999%5D,%5B2019%20TO%202024%5D,Volkswagen,Category:USED&from=%2FvehicleFinder
 

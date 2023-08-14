@@ -36,11 +36,15 @@ https://developer.android.com/studio/debug/dev-options
 
 https://www.jetbrains.com/products/compare/?product=pycharm&product=pycharm-ce
 
-3. Flask: Введение в HTML5. Что такое HTML
+3. Flask
+
+https://flask.palletsprojects.com/en/2.0.x/quickstart/?highlight=secret%20key
+
+4. Flask: Введение в HTML5. Что такое HTML
 
 https://metanit.com/web/html5/1.1.php
 
-4. Flask: Основы CSS
+5. Flask: Основы CSS
 
 https://developer.mozilla.org/ru/docs/Learn/Getting_started_with_the_web/CSS_basics
 

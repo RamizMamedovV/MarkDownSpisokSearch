@@ -1,10 +1,10 @@
 # Markdown 
 
-https://markdownmonster.west-wind.com/
+[markdown](https://markdownmonster.west-wind.com/)
 
 ## Geek Brains
 
-1. https://www.youtube.com/watch?v=L6AvLG_k1G8&list=PLmRNNqEA7JoMyhHCq4FPuRMiWi9SxZVi1&index=19
+1.[Geek Brains](https://www.youtube.com/watch?v=L6AvLG_k1G8&list=PLmRNNqEA7JoMyhHCq4FPuRMiWi9SxZVi1&index=19)
 
 ## GIT
 

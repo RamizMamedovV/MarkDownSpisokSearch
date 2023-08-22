@@ -54,7 +54,9 @@ https://studio.code.org/s/playlab/lessons/1/levels/9
 
 ## СОЗДАТЬ ДИАГРАММУ
 
-https://app.diagrams.net/
+[СОЗДАТЬ ДИАГРАММУ](https://app.diagrams.net/)
+
+[convertor photo](https://www.online-convert.com/ru/result#j=f718974f-9d96-481b-80a0-77d37821caa0)
 
 2. СЕМИНАР СТРУКТУРА ДАННЫХ
 

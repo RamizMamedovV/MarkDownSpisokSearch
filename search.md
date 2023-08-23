@@ -8,9 +8,9 @@
 
 ## GIT
 
-1. https://github.com/RamizMamedovV?tab=overview&from=2023-04-01&to=2023-04-30
+1. [RamizMamedovV](https://github.com/RamizMamedovV?tab=overview&from=2023-04-01&to=2023-04-300
 
-2. https://vimeo.com/showcase/5616060
+2. [обучающие видео по Git](https://vimeo.com/showcase/5616060)
 
 3. Git для новичков (часть 1)
 https://habr.com/ru/articles/541258/
@@ -24,7 +24,7 @@ https://learngitbranching.js.org/?locale=ru_RU&demo=
 
 7. Android Studio Git
 
-https://github.com/RaMamedovAS/recyclerVew
+[RaMamedovAS](https://github.com/RaMamedovAS/recyclerVew)
 
 ## Обучение
 
@@ -47,6 +47,9 @@ https://metanit.com/web/html5/1.1.php
 5. Flask: Основы CSS
 
 https://developer.mozilla.org/ru/docs/Learn/Getting_started_with_the_web/CSS_basics
+
+6.Python SQLite
+[обучающее видео по SQLite](https://proproprogs.ru/modules/komandy-update-i-delete)
 
 ## Amina обучение
 

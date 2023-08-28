@@ -8,33 +8,23 @@
 
 ## GIT
 
-1. [RamizMamedovV](https://github.com/RamizMamedovV?tab=overview&from=2023-04-01&to=2023-04-300
+1. [RamizMamedovV](https://github.com/RamizMamedovV?tab=overview&from=2023-04-01&to=2023-04-300)
 
 2. [обучающие видео по Git](https://vimeo.com/showcase/5616060)
 
-3. Git для новичков (часть 1)
-https://habr.com/ru/articles/541258/
+3. [Git для новичков (часть 1)](https://habr.com/ru/articles/541258/)
 
-4. Git для новичков (часть 2)
-https://habr.com/ru/articles/542616/
+4. [Git для новичков (часть 2)](https://habr.com/ru/articles/542616/)
 
-5. GIT тренажер
+5. [GIT тренажер](https://learngitbranching.js.org/?locale=ru_RU&demo=)
 
-https://learngitbranching.js.org/?locale=ru_RU&demo=
-
-7. Android Studio Git
-
-[RaMamedovAS](https://github.com/RaMamedovAS/recyclerVew)
+7. [Android Studio GitRaMamedovAS](https://github.com/RaMamedovAS/recyclerVew)
 
 ## Обучение
 
-1. Configure on-device developer options
+1. [Configure on-device developer options](https://developer.android.com/studio/debug/dev-options)
 
-https://developer.android.com/studio/debug/dev-options
-
-2. PyCharm Pro vs PyCharm Community Edition
-
-https://www.jetbrains.com/products/compare/?product=pycharm&product=pycharm-ce
+2. [PyCharm Pro vs PyCharm Community Edition](https://www.jetbrains.com/products/compare/?product=pycharm&product=pycharm-ce)
 
 3. Flask
 

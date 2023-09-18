@@ -123,3 +123,6 @@ https://pngicon.ru/kartinki
 2. https://www.iaai.com/
 ## сайт для работы с регулярными выражениями
 1. [https://regexr.com/](сайт для работы с регулярными выражениями)
+
+##  Interface Map<K,V> /docs.oracle.com
+1. [https://docs.oracle.com/en/java/javase/20/docs/api/java.base/java/util/Map.html](Interface Map<K,V>)
